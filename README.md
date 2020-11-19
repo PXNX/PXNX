@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey ✌🏻
+Welcome to my Github profile. This one is pretty empty, but yeah.
+
 
 <!--
 **PXNX/PXNX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align="left" alt="Telegram icon" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/><a href="https://t.me/pentexnyx">@pentexnyx</a>
+<a href="https://t.me/pentexnyx"><img align="left" alt="Telegram icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"/></a><a href="https://stackoverflow.com/users/10905230/pentexnyx"><img align="left" alt="Stackoverflow icon" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png"/></a>
