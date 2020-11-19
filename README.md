@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ---
 <p align="right">
- <a href="https://t.me/pentexnyx"><img align="right" alt="Telegram icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"/></a><a href="https://stackoverflow.com/users/10905230/pentexnyx"><img align="right" alt="Stackoverflow icon" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png"/></a>
+  <a href="https://t.me/pentexnyx"><img alt="Telegram icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"/></a>   <a href="https://stackoverflow.com/users/10905230/pentexnyx"><img alt="Stackoverflow icon" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png"/></a>
 </p>
 
