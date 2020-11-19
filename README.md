@@ -4,9 +4,9 @@
 </p>
 
 
-### Current Project
+### 📋 Current Project
 A politics, journalism, economy and simulation for Android, which mainly uses Kotlin.</br></br>
-### My Freetime
+### 📚 My Freetime
 Poetry, painting, reading, horsebackriding and tech.</br></br></br>
 
 [![pentexnyx's github stats](https://github-readme-stats.vercel.app/api?username=PXNX)](https://github.com/PXNX)</br></br>
