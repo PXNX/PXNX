@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![pentexnyx's github stats](https://github-readme-stats.vercel.app/api?username=PXNX)](https://github.com/PXNX)  
+
+
+<br/>
+
+<img align="left" alt="Telegram icon" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/><a href="https://t.me/pentexnyx">@pentexnyx</a>
