@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 [![pentexnyx's github stats](https://github-readme-stats.vercel.app/api?username=PXNX)](https://github.com/PXNX)  
 
 
-<br/>
 
-<a href="https://t.me/pentexnyx"><img align="left" alt="Telegram icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"/></a><a href="https://stackoverflow.com/users/10905230/pentexnyx"><img align="left" alt="Stackoverflow icon" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png"/></a>
+---
+<p align="right">
+ <a href="https://t.me/pentexnyx"><img align="right" alt="Telegram icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"/></a><a href="https://stackoverflow.com/users/10905230/pentexnyx"><img align="right" alt="Stackoverflow icon" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png"/></a>
+</p>
+
