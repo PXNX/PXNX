@@ -10,7 +10,7 @@ A politics, journalism, economy and simulation for Android, which mainly uses Ko
 Poetry, painting, reading, horsebackriding and tech.</br></br></br>
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=PXNX&show_icons=true&hide_border=true&hide_title=true&bg_color=000&icon_color=7881A6&text_color=FBFBFB&title_color=4CAF50)](https://github.com/PXNX)</br>
+[![Stats](https://github-readme-stats.vercel.app/api?username=PXNX&show_icons=true&hide_border=true&bg_color=000&icon_color=7881A6&text_color=FBFBFB&title_color=4CAF50)](https://github.com/PXNX)</br>
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pentexnyx&hide_border=true&bg_color=000&icon_color=7881A6&text_color=FBFBFB&title_color=4CAF50)](https://github.com/PXNX)</br></br>
 
 
