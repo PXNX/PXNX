@@ -8,7 +8,7 @@
 ### 📋 Current Project
 A politics, journalism, economy and simulation for Android, which mainly uses Kotlin.</br></br>
 
-### 📚 My Freetime
+### 📚 Freetime
 Poetry, painting, reading, horsebackriding and tech.</br></br>
 
 ### 🖥️ Languages
