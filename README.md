@@ -12,8 +12,8 @@ A politics, journalism, economy and simulation for Android, which mainly uses Ko
 Poetry, painting, reading, horsebackriding and tech.</br></br>
 
 ### 🖥️ Languages
-![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square) 
-![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)</br></br>
+[![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org)
+[![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)](https://www.python.org)</br></br>
 
 ### Final words
 Kotlin is awesome ❤️
