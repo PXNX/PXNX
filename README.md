@@ -3,6 +3,20 @@
   Welcome to my Github profile. This one is pretty empty, but yeah.
 </p></br></br>
 
+```python
+  var pentexnyx = student {
+    about {
+        name = "Nyx"
+        uni = DHBW
+        mates = Equinox
+    }
+    tech("Kotlin", "Java", "Python")
+    social {
+        telegram = "@pentexnyx"
+    }
+}
+``` 
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=PXNX&show_icons=true&hide_border=true&bg_color=000&icon_color=7881A6&text_color=FBFBFB&title_color=4CAF50)](https://github.com/PXNX)</br></br>
 
 ### 📋 Current Project
