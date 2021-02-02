@@ -8,7 +8,7 @@
     about {
         name = "Pedro Santos Andrade"
         mates = Equinox
-        sources = mutableListOf("Paraguay", "Brasil")
+        sources = mutableListOf("Paraguai", "Brasil")
     }
     tech("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
     social {
