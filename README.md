@@ -6,7 +6,7 @@
 ```python
   var pxnx = fullstack {
     about {
-        name = "Pedro Santos Andrade"
+        name = "Nyx"
         mates = Equinox
         sources = mutableListOf("Paraguai", "Brasil")
     }
