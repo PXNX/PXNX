@@ -1,26 +1,27 @@
 <p align="center">
-  <b>Hey ✌🏻</b></br>
-  Welcome to my Github profile. This one is pretty empty, but yeah.
+  <b>Oi ✌🏻</b></br>
+  Welcome to my Github profile. This one is pretty empty and work in progress, but yeah.
 </p></br></br>
 
 ```python
-  var pentexnyx = student {
+  var pxnx = fullstack {
     about {
         name = "Nyx"
-        uni = DHBW
         mates = Equinox
     }
-    tech("Kotlin", "Java", "Python")
+    tech("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
     social {
-        telegram = "@pentexnyx"
+        null
     }
+    langs("English", "Spanish", "Portuguese")
 }
 ``` 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=PXNX&show_icons=true&hide_border=true&bg_color=000&icon_color=7881A6&text_color=FBFBFB&title_color=4CAF50)](https://github.com/PXNX)</br></br>
 
 ### 📋 Current Project
-A politics, journalism, economy and simulation for Android based on Jetpack Compose. Just for the sake of training and exploring.</br></br>
+A politics, journalism, economy and simulation for Android based on Jetpack Compose together with a few mates.
+Just for the sake of training and exploring.</br></br>
 
 ### 📚 Freetime
 Poetry, painting, reading, horsebackriding and tech.</br></br>
