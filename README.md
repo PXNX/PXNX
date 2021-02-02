@@ -6,8 +6,9 @@
 ```python
   var pxnx = fullstack {
     about {
-        name = "Nyx"
+        name = "Pedro Santos Andrade"
         mates = Equinox
+        sources = mutableListOf("Paraguay", "Brasil")
     }
     tech("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
     social {
