@@ -1,20 +1,22 @@
 <p align="center">
   <b>Oi ✌🏻</b></br>
-  Welcome to my Github profile. This one is pretty empty and work in progress, but yeah.
+  Welcome to my Github profile. This one is work in progress, but yeah.
 </p></br></br>
 
 ```python
-  var pxnx = fullstack {
+  var pxnx = student {
     about {
-        name = "Nyx"
-        mates = Equinox
-        sources = mutableListOf("Paraguai", "Brasil")
+      name = "Pedro saNchez"
+      mates = Equinox
+      sources = mutableListOf("Paraguai", "Brasil")
     }
-    tech("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
+    stack{
+      mutableListOf("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
+    }
     social {
         null
     }
-    langs("English", "Spanish", "Portuguese")
+    langs("Spanish", "English", "Portuguese")
 }
 ``` 
 
