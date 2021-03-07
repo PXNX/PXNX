@@ -33,8 +33,9 @@ Poetry, painting, reading, horsebackriding and tech.</br></br>
 [![Kotlin](https://img.shields.io/badge/-Kotlin-orange?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org)
 [![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)](https://www.python.org)</br></br>
 
-### Final words
+### Connect with me
+<a href="https://stackoverflow.com/users/10905230/pentexnyx"><img src="https://stackoverflow.com/users/flair/10905230.png?theme=clean" width="208" height="58" alt="profile for pentexnyx at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for pentexnyx at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
 Kotlin is awesome ❤️
 Give it a try.
-
-<a href="https://t.me/pentexnyx"><img align="right" alt="Telegram icon" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"/></a><a href="https://stackoverflow.com/users/10905230/pentexnyx"><img align="right" alt="Stackoverflow icon" width="36px" src="https://image.flaticon.com/icons/png/512/2111/2111628.png"/></a>
