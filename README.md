@@ -28,6 +28,8 @@
 A politics, journalism, economy and simulation for Android based on Jetpack Compose together with a few mates.
 Just for the sake of training and exploring.</br></br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pxnx&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)</br></br>
+
 ### Connect with me
 <a href="https://stackoverflow.com/users/10905230/pentexnyx"><img src="https://stackoverflow.com/users/flair/10905230.png?theme=clean" width="208" height="58" alt="profile for pentexnyx at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for pentexnyx at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
