@@ -9,13 +9,16 @@
       name = "Felix Huber"
       mates = "Equinox"
       source = "Germany"
-      visitedPlaces = mutableListOf("Russia", "Switzerland", "Liechtenstein", "Austria", "Italy", "Spain", "Portugal", "France", "Czechia", "Denmark", "Finland", "Poland", "Paraguay", "Argentina", "Brazil")
+      visitedPlaces = mutableListOf("Russia", "Switzerland", "Liechtenstein", "Austria",
+                                    "Italy", "Spain", "Portugal", "France", "Czechia",
+                                    "Denmark", "Finland", "Poland", "Paraguay", "Argentina", "Brazil")
     }
-    stack{
-      mutableListOf("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
-    }
+    
+    stack = mutableListOf("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
+    
     interests{
-        languages("Spanish", "English", "Portuguese")
+        languages = mapOf<Language, Level>("German" to "C2", English" to "C1",
+                                           "Spanish" to "A2", "Portuguese" to "A2")
         "poetry"
         "horses"
         "swimming"
