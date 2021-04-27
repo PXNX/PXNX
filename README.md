@@ -17,7 +17,7 @@
     stack = mutableListOf("Kotlin", "Java", "Python", "C#", "Haskell", "Scala")
     
     interests{
-        languages = mapOf<Language, Level>("German" to "C2", English" to "C1",
+        languages = mapOf<Language, Level>("German" to "C2", "English" to "C1",
                                            "Spanish" to "A2", "Portuguese" to "A2")
         "poetry"
         "horses"
