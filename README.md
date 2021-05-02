@@ -6,7 +6,6 @@
 ```python
   var pxnx = student {
     about {
-      name = "Felix Huber"
       mates = "Equinox"
       source = "Germany"
       visitedPlaces = mutableListOf("Russia", "Switzerland", "Liechtenstein", "Austria",
