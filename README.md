@@ -7,7 +7,6 @@
   var pxnx = student {
     about {
       mates = "Equinox"
-      origin = "Germany"
       visitedPlaces = mutableListOf("Russia", "Switzerland", "Liechtenstein", "Austria",
                                     "Italy", "Spain", "Portugal", "France", "Czechia",
                                     "Denmark", "Poland", "Paraguay", "Argentina", "Brazil")
