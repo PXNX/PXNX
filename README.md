@@ -1,7 +1,7 @@
 **Hey there ✌🏻**
 
 Welcome to my Github profile.
-</br></br>
+<br>
 
 ```python
 var me = student {
@@ -22,12 +22,12 @@ var me = student {
     interests = listOf("poetry", "🐴", "🏊🏻‍♂️", "tech", "🎵")
 }
 ```
-</br></br>
+</br>
 
 ### 📋 Current Project
 A politics, journalism, economy and simulation for Android based on Jetpack Compose together with a few mates.
 Just for the sake of training and exploring.
-</br></br>
+<br><br>
 
 ### 📈 Stats
 
