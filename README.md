@@ -13,7 +13,11 @@ var me = student {
     languages {
         favored = mutableListOf("Kotlin", "Java", "Python3", "Dart")
         other = listOf("C#", "Haskell", "Scala", "Javascript", "Typescript", "PHP", "ABAP")
-        natural = mapOf<Language, Level>("German" to "C2", "English" to "C2", "Spanish" to "A2", "Portuguese" to "A2")
+        natural = mapOf<String, Level>(
+            "German" to Level.Fluent,
+            "English" to Level.Fluent,
+            "Spanish" to Level.Beginner,
+            "Portuguese" to Level.Beginner)
     }
     interests = listOf("poetry", "🐴", "🏊🏻‍♂️", "tech", "🎵")
 }
